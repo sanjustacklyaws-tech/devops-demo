@@ -1,1 +1,1 @@
-echo "Application is healthy"
+echo "Application health check passed"
